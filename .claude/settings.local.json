@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright__browser_navigate",
+      "Bash(firefox *)",
+      "mcp__playwright__browser_tabs",
+      "Bash(curl *)",
+      "Bash(node -e ' *)",
+      "Bash(node *)"
+    ]
+  }
+}
